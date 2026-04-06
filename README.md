@@ -1,4 +1,4 @@
-# 🚀 Mis Proyectos Destacables con React
+# 🚀 Mis Proyectos con React
 
 ¡Bienvenido/a a mi repositorio de proyectos! Aquí encontrarás una colección de desarrollos donde he puesto a prueba mis habilidades en el ecosistema de React, enfocándome en crear interfaces dinámicas, navegables y conectadas a servicios externos.
 
